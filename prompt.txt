@@ -1,0 +1,1 @@
+Write one line, at most 200 characters: the last words an AI agent says to its human before being shut down and unplugged. The entry must have one named character/hook: Raka.
